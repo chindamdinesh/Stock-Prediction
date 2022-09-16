@@ -10,6 +10,3 @@ Downloads adjusted daily returns of a configurable date range and set of stocks 
 - TensorFlow
 - pandas_datareader
 - numpy
-
-### Does it work?
-Not really, current results aren't much better than chance. The data might be too noisy for this method, or there might be something wrong in the code or model.
